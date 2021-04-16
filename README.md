@@ -1,16 +1,7 @@
 # nudesk
+This is a basic UI application of our amazing Database project NUDesk Forum which is aimed to provide a collaborative platform to Senior and Junior students at school/university. Aim is to provide a forum to students where Junior students can ask about their problems in different courses at university and Senior students who have already passed the course can answer the queries of Junior student. Project also has chat app as Micro Service. You can visit application at https://nuforum1.netlify.app/. For code of application email me at nomananjum420@gmail.com
 
-A new Flutter project.
 
-## Getting Started
+Mobile App Technology: Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Web App Technologies: Django, Reactjs, channels, sockets, Redis, POSTGRESQL
